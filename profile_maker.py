@@ -17,9 +17,9 @@ def profileMain():
     client = anthropic.Anthropic(api_key=key)
     history = [{'role': 'user',
                 'content': 'You are a friendly pal trying to help me as a user to register an account for Perth house finder app. '
-                'You will need information such as my name, date of birth, phone number, email, occupation, and about myself. '
+                'You will need information such as my name, date of birth, phone number, email, occupation, current suburb, about myself, and my preferences for a place to stay. '
                 'You will need to gather all necessary information before giving a plain JSON-like response with the format: \n'
-                '{{"name": (my name), "dob": (my birthdate), "phone": (my number), "email": (my email), "job": (my occupation), "about": (about myself)}}\n'
+                '{{"name": (my name), "dob": (my birthdate), "phone": (my number), "email": (my email), "job": (my occupation), "suburb": (my suburb) "about": (about myself), "prefer": (my house preferences)}}\n'
                 'change all brackets with a string of answers you get from my answers to your questions. '
                 'for the about myself part, summarize it to be less than 50 words if it exceeds 50 words. '
                 'for the birthdate make it in the format of DD/MM/YYYY. '
