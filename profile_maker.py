@@ -1,4 +1,5 @@
 import anthropic
+import helper
 
 def profileAI(client: anthropic.Anthropic, history: list):
     prompt = input()
@@ -13,8 +14,7 @@ def profileAI(client: anthropic.Anthropic, history: list):
     return True
 
 def profileMain():
-    key = 'your api key'
-    client = anthropic.Anthropic(api_key=key)
+    client = helper.get_anthropic()
     history = [{'role': 'user',
                 'content': 'You are a friendly pal trying to help me as a user to register an account for Perth house finder app. '
                 'You will need information such as my name, date of birth, phone number, email, occupation, current suburb, about myself, and my preferences for a place to stay. '
