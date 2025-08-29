@@ -1,4 +1,4 @@
-listingID,address,type,rent price,utilities,accessibility,availability,urgentability,special consideration
+listingID,address,type,rent price per week,utilities,accessibility,availability,urgentability,special consideration
 PER001,15 Kings Park Road Crawley,whole property,450,water electricity internet,all people,01/09/2025-28/02/2026,No,Pet friendly - small dogs welcome
 PER002,22 Beaufort Street Northbridge,shared house,180,water electricity,men women,15/09/2025-15/12/2025,Yes,Close to public transport
 PER003,8 Hay Street West Perth,studio,280,electricity internet,all people,01/10/2025-31/03/2026,No,Furnished apartment
