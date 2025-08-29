@@ -12,7 +12,7 @@ def profileAI(client: anthropic.Anthropic, history: list):
         return False
     return True
 
-def main():
+def profileMain():
     key = 'your api key'
     client = anthropic.Anthropic(api_key=key)
     history = [{'role': 'user',
@@ -36,7 +36,11 @@ def main():
     flag = True
     while(flag):
         flag = profileAI(client, history)
+    
+    curlStart = history[-1]['content'].find('{')
+    curlEnd = history[-1]['content'].find('}')
+    return history[-1]['content'][curlStart:curlEnd + 1]
 
 if __name__ == '__main__':
-    main()
+    json = profileMain()
     
