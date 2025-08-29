@@ -1,0 +1,183 @@
+listingID,address,type,rent price,utilities,accessibility,availability,urgentability,special consideration
+PER001,15 Kings Park Road Crawley,whole property,450,water electricity internet,all people,01/09/2025-28/02/2026,No,Pet friendly - small dogs welcome
+PER002,22 Beaufort Street Northbridge,shared house,180,water electricity,men women,15/09/2025-15/12/2025,Yes,Close to public transport
+PER003,8 Hay Street West Perth,studio,280,electricity internet,all people,01/10/2025-31/03/2026,No,Furnished apartment
+PER004,45 Murray Street Perth,student accommodation,200,water internet,women,01/02/2026-30/11/2026,No,University students only
+PER005,33 Riverside Drive East Perth,whole property,520,water electricity internet,couple,10/09/2025-10/09/2026,Yes,Riverfront views
+PER006,12 Oxford Street Leederville,shared house,160,water,men,01/11/2025-28/02/2026,No,Shared kitchen facilities
+PER007,67 Stirling Highway Nedlands,homestay,220,water electricity internet,women,15/09/2025-15/06/2026,No,Host family with children
+PER008,89 William Street Northbridge,studio,250,electricity,all people,01/10/2025-31/01/2026,Yes,CBD location
+PER009,34 Wellington Street East Perth,whole property,480,water electricity,couple,20/09/2025-20/03/2026,No,Two bedroom apartment
+PER010,56 Charles Street North Perth,shared house,175,internet,men women,01/12/2025-30/06/2026,No,Garden access
+PER011,78 Albany Highway Victoria Park,student accommodation,190,water electricity internet,all people,01/02/2026-30/11/2026,Yes,Near Curtin University
+PER012,23 Bennett Street East Perth,homestay,240,water electricity internet,women,01/10/2025-31/12/2025,No,Single room with private bathroom
+PER013,91 Railway Parade West Leederville,whole property,380,water electricity,men women,15/10/2025-15/04/2026,No,Recently renovated
+PER014,17 Fitzgerald Street Northbridge,studio,260,electricity internet,all people,01/11/2025-28/02/2026,Yes,Short term lease available
+PER015,42 Lake Street Northbridge,shared house,155,water,men,10/10/2025-10/01/2026,No,Close to entertainment district
+PER016,65 Alexander Drive Dianella,whole property,420,water electricity internet,couple,01/09/2025-31/08/2026,No,Family home with yard
+PER017,88 Canning Highway South Perth,homestay,260,water electricity internet,all people,15/09/2025-15/03/2026,Yes,River views
+PER018,29 Barrack Street Perth,student accommodation,210,water internet,women,01/02/2026-30/11/2026,No,City center location
+PER019,53 Great Eastern Highway Midland,shared house,140,electricity,men women,01/11/2025-30/04/2026,No,Large backyard
+PER020,76 Wanneroo Road Tuart Hill,whole property,340,water electricity,all people,20/09/2025-20/06/2026,Yes,Three bedroom house
+PER021,14 Scarborough Beach Road Mount Hawthorn,studio,270,water electricity internet,women,01/10/2025-31/03/2026,No,Near beach access
+PER022,37 Mounts Bay Road Perth,homestay,280,water electricity internet,couple,15/10/2025-15/07/2026,No,City skyline views
+PER023,59 Guildford Road Mount Lawley,shared house,165,water electricity,men,01/12/2025-31/05/2026,Yes,Artistic neighborhood
+PER024,81 Rokeby Road Subiaco,whole property,490,water electricity internet,all people,01/09/2025-01/09/2026,No,Modern townhouse
+PER025,26 Roe Street Northbridge,student accommodation,195,internet,women,01/02/2026-30/11/2026,No,International students welcome
+PER026,48 Newcastle Street Perth,studio,290,water electricity,men women,10/09/2025-10/12/2025,Yes,Fully furnished
+PER027,70 Cambridge Street West Leederville,shared house,170,electricity internet,all people,01/11/2025-28/02/2026,No,Shared living areas
+PER028,92 South Terrace Fremantle,homestay,250,water electricity internet,couple,15/09/2025-15/12/2025,Yes,Historic port area
+PER029,18 Hampden Road Nedlands,whole property,460,water electricity internet,men women,01/10/2025-30/09/2026,No,Near UWA campus
+PER030,41 Leach Highway Riverton,shared house,150,water,women,20/10/2025-20/01/2026,No,Quiet residential area
+PER031,63 Manning Road Como,studio,240,electricity internet,all people,01/11/2025-31/03/2026,Yes,Riverside location
+PER032,85 Canning Bridge Road Applecross,homestay,270,water electricity internet,men,15/10/2025-15/05/2026,No,Family environment
+PER033,27 Vincent Street Leederville,whole property,410,water electricity,couple,01/09/2025-28/02/2026,No,Art deco building
+PER034,49 Robinson Avenue Belmont,shared house,160,water internet,men women,10/11/2025-10/04/2026,Yes,Close to airport
+PER035,71 Whatley Crescent Bayswater,student accommodation,185,water electricity internet,all people,01/02/2026-30/11/2026,No,Student hub area
+PER036,93 Albany Highway Cannington,studio,220,electricity,women,01/12/2025-31/05/2026,No,Shopping center nearby
+PER037,19 Mill Point Road South Perth,homestay,290,water electricity internet,couple,15/09/2025-15/06/2026,Yes,Zoo and city views
+PER038,43 Grand Promenade Bedford,whole property,390,water electricity internet,all people,01/10/2025-01/07/2026,No,Family friendly suburb
+PER039,65 Walter Road Morley,shared house,145,water electricity,men,20/09/2025-20/12/2025,No,Industrial area nearby
+PER040,87 Tonkin Highway Bayswater,studio,210,internet,men women,01/11/2025-28/02/2026,Yes,Highway access
+PER041,31 Beach Road Watermans Bay,homestay,320,water electricity internet,all people,15/10/2025-15/01/2026,No,Beachfront location
+PER042,52 Karrinyup Road Karrinyup,whole property,440,water electricity,couple,01/09/2025-31/08/2026,No,Shopping mall nearby
+PER043,74 Main Street Osborne Park,shared house,170,electricity internet,women,10/11/2025-10/05/2026,Yes,Industrial precinct
+PER044,96 Great Northern Highway Middle Swan,student accommodation,175,water internet,men women,01/02/2026-30/11/2026,No,Rural setting
+PER045,21 Preston Street Como,studio,260,water electricity,all people,01/12/2025-30/04/2026,No,Quiet street
+PER046,44 Stock Road Palmyra,homestay,230,water electricity internet,men,15/11/2025-15/02/2026,Yes,Family with teenagers
+PER047,66 Leila Road Coolbellup,whole property,350,water electricity internet,couple,20/09/2025-20/03/2026,No,Affordable housing area
+PER048,88 Ranford Road Harrisdale,shared house,155,water,women,01/10/2025-31/01/2026,No,New development area
+PER049,32 Abernethy Road Belmont,studio,235,electricity internet,men women,15/10/2025-15/04/2026,Yes,Close to Belmont Forum
+PER050,54 Great Western Highway Mundaring,homestay,200,water electricity internet,all people,01/11/2025-30/06/2026,No,Hills location with views
+PER051,76 Brookton Highway Kelmscott,whole property,320,water electricity,men,10/10/2025-10/07/2026,No,Outer suburb location
+PER052,98 Orrong Road Rivervale,shared house,165,internet,couple,01/12/2025-28/02/2026,Yes,Close to Optus Stadium
+PER053,25 Welshpool Road East Welshpool,student accommodation,180,water electricity internet,women,01/02/2026-30/11/2026,No,Industrial area
+PER054,47 Marmion Avenue Trigg,studio,310,water electricity internet,all people,15/09/2025-15/12/2025,Yes,Beach access
+PER055,69 West Coast Highway Scarborough,homestay,300,water electricity internet,men women,01/10/2025-31/03/2026,No,Beachside living
+PER056,91 Reid Highway Malaga,whole property,370,water electricity,couple,20/10/2025-20/04/2026,No,Airport proximity
+PER057,16 Thomas Street Subiaco,shared house,190,electricity internet,all people,01/11/2025-31/05/2026,Yes,Trendy suburb
+PER058,38 Railway Road Kalamunda,studio,200,water,men,15/11/2025-15/02/2026,No,Hills suburb
+PER059,60 Albany Highway Armadale,homestay,180,water electricity internet,women,01/12/2025-30/04/2026,No,Train line access
+PER060,82 Tonkin Highway Forrestfield,whole property,330,water electricity internet,men women,10/09/2025-10/06/2026,Yes,Growing suburb
+PER061,28 Canning Highway Como,shared house,175,water electricity,couple,01/10/2025-31/12/2025,No,River access nearby
+PER062,50 South Street Murdoch,student accommodation,200,internet,all people,01/02/2026-30/11/2026,No,Near Murdoch University
+PER063,72 Hampton Road Fremantle,studio,280,water electricity internet,women,15/09/2025-15/03/2026,Yes,Port city location
+PER064,94 High Street Fremantle,homestay,260,water electricity internet,men,01/11/2025-30/04/2026,No,Historic area
+PER065,20 Marine Parade Cottesloe,whole property,650,water electricity internet,couple,20/09/2025-20/12/2025,Yes,Beachfront premium
+PER066,42 Stirling Street Perth,shared house,185,electricity,all people,01/10/2025-30/06/2026,No,CBD proximity
+PER067,64 Kings Park Road West Perth,studio,320,water internet,men women,15/10/2025-15/01/2026,No,Park views
+PER068,86 Newcastle Street Northbridge,homestay,245,water electricity internet,women,01/11/2025-31/03/2026,Yes,Cultural precinct
+PER069,30 Adelaide Terrace East Perth,whole property,480,water electricity internet,all people,10/09/2025-10/03/2026,No,River and city views
+PER070,52 Lord Street Perth,shared house,170,water electricity,men,01/12/2025-31/05/2026,No,Entertainment district
+PER071,74 Mounts Bay Road South Perth,student accommodation,220,internet,couple,01/02/2026-30/11/2026,Yes,Zoo proximity
+PER072,96 Hay Street Subiaco,studio,295,water electricity internet,women,15/11/2025-15/02/2026,No,Shopping and dining
+PER073,22 Railway Parade Bayswater,homestay,190,water electricity internet,all people,01/10/2025-30/04/2026,No,Train station access
+PER074,44 Great Eastern Highway Rivervale,whole property,360,water electricity,men women,20/10/2025-20/07/2026,Yes,Sports precinct
+PER075,66 Abernethy Road Cloverdale,shared house,150,water,couple,01/11/2025-28/02/2026,No,Quiet neighborhood
+PER076,88 Leach Highway Bull Creek,studio,230,electricity internet,all people,15/09/2025-15/06/2026,No,Shopping center access
+PER077,33 Canning Highway Applecross,homestay,275,water electricity internet,men,01/12/2025-31/03/2026,Yes,Upmarket suburb
+PER078,55 Manning Road Bentley,whole property,340,water electricity internet,women,10/10/2025-10/04/2026,No,University area
+PER079,77 Albany Highway Victoria Park,shared house,165,electricity,all people,01/11/2025-30/06/2026,No,Cafe strip nearby
+PER080,99 Stock Road Palmyra,student accommodation,185,water internet,couple,01/02/2026-30/11/2026,Yes,Affordable student housing
+PER081,24 Walcott Street Mount Lawley,studio,285,water electricity internet,men women,15/10/2025-15/04/2026,No,Arts precinct
+PER082,46 Bulwer Street Perth,homestay,255,water electricity internet,all people,01/09/2025-31/12/2025,No,Heritage building
+PER083,68 Mill Point Road South Perth,whole property,550,water electricity internet,couple,20/09/2025-20/06/2026,Yes,Premium location
+PER084,90 Francis Street Northbridge,shared house,180,water,men,01/11/2025-31/05/2026,No,Nightlife area
+PER085,26 Cambridge Street Wembley,studio,275,electricity internet,women,15/11/2025-15/02/2026,No,Quiet residential
+PER086,48 Karrinyup Road Stirling,homestay,210,water electricity internet,all people,01/10/2025-30/04/2026,Yes,Family neighborhood
+PER087,70 Reid Highway Malaga,whole property,380,water electricity,men women,10/11/2025-10/05/2026,No,Airport access
+PER088,92 Tonkin Highway Bayswater,shared house,160,internet,couple,01/12/2025-28/02/2026,No,Highway convenience
+PER089,18 Beach Road City Beach,student accommodation,250,water electricity internet,all people,01/02/2026-30/11/2026,Yes,Beach lifestyle
+PER090,40 Scarborough Beach Road Osborne Park,studio,240,water electricity,men,15/09/2025-15/03/2026,No,Central location
+PER091,62 Wanneroo Road Nollamara,homestay,195,water electricity internet,women,01/10/2025-31/01/2026,No,Family with pets
+PER092,84 Alexander Drive Dianella,whole property,400,water electricity internet,couple,20/10/2025-20/01/2026,Yes,Suburban family home
+PER093,29 Guildford Road Mount Lawley,shared house,175,water electricity,all people,01/11/2025-30/06/2026,No,Heritage area
+PER094,51 South Terrace Fremantle,studio,265,electricity internet,men women,15/11/2025-15/05/2026,No,Port atmosphere
+PER095,73 High Street Fremantle,homestay,245,water electricity internet,all people,01/12/2025-31/03/2026,Yes,Markets nearby
+PER096,95 Marine Parade Cottesloe,whole property,700,water electricity internet,couple,10/09/2025-10/12/2025,No,Beachfront luxury
+PER097,21 Kings Park Road Crawley,shared house,185,water,men,01/10/2025-30/04/2026,No,Parkland views
+PER098,43 Beaufort Street Highgate,student accommodation,205,water internet,women,01/02/2026-30/11/2026,Yes,Student area
+PER099,65 Hay Street West Perth,studio,310,water electricity internet,all people,15/10/2025-15/04/2026,No,Business district
+PER100,87 Murray Street Perth,homestay,275,water electricity internet,couple,01/11/2025-31/05/2026,No,City center convenience
+PER101,35 Riverside Drive East Perth,whole property,520,water electricity internet,men women,20/09/2025-20/03/2026,Yes,Premium riverside
+PER102,57 Oxford Street Leederville,shared house,155,electricity,all people,01/12/2025-31/03/2026,No,Trendy cafe culture
+PER103,79 Stirling Highway Nedlands,studio,250,water internet,men,15/11/2025-15/02/2026,No,University proximity
+PER104,13 William Street Northbridge,homestay,220,water electricity internet,women,01/09/2025-31/12/2025,Yes,Cultural hub
+PER105,36 Wellington Street East Perth,whole property,470,water electricity internet,couple,10/10/2025-10/07/2026,No,City fringe location
+PER106,58 Charles Street North Perth,shared house,165,water electricity,all people,01/11/2025-30/06/2026,No,Local shopping strip
+PER107,80 Albany Highway Victoria Park,student accommodation,190,internet,men women,01/02/2026-30/11/2026,Yes,Transport hub
+PER108,25 Bennett Street East Perth,studio,270,water electricity internet,women,15/09/2025-15/03/2026,No,Warehouse conversion
+PER109,47 Railway Parade West Leederville,homestay,235,water electricity internet,all people,01/10/2025-30/04/2026,No,Train access
+PER110,69 Fitzgerald Street Northbridge,whole property,390,water electricity internet,men,20/10/2025-20/01/2026,Yes,Entertainment precinct
+PER111,91 Lake Street Northbridge,shared house,175,electricity,couple,01/11/2025-31/05/2026,No,Urban lifestyle
+PER112,17 Alexander Drive Dianella,studio,225,water internet,all people,15/11/2025-15/02/2026,No,Suburban setting
+PER113,39 Canning Highway South Perth,homestay,265,water electricity internet,men women,01/12/2025-28/02/2026,Yes,River precinct
+PER114,61 Barrack Street Perth,whole property,450,water electricity internet,women,10/09/2025-10/06/2026,No,Legal district
+PER115,83 Great Eastern Highway Midland,shared house,140,water,all people,01/10/2025-31/03/2026,No,Heritage railway town
+PER116,28 Wanneroo Road Tuart Hill,student accommodation,195,electricity internet,couple,01/02/2026-30/11/2026,Yes,TAFE proximity
+PER117,50 Scarborough Beach Road Mount Hawthorn,studio,280,water electricity internet,men,15/10/2025-15/01/2026,No,Beach lifestyle access
+PER118,72 Mounts Bay Road Perth,homestay,290,water electricity internet,women,01/11/2025-30/04/2026,No,Premium city location
+PER119,94 Guildford Road Mount Lawley,whole property,420,water electricity internet,all people,20/11/2025-20/05/2026,Yes,Heritage character
+PER120,23 Rokeby Road Subiaco,shared house,180,electricity,couple,01/09/2025-31/12/2025,No,Market square access
+PER121,45 Roe Street Northbridge,studio,255,water internet,men women,15/09/2025-15/06/2026,No,Chinatown proximity
+PER122,67 Newcastle Street Perth,homestay,270,water electricity internet,all people,01/10/2025-31/01/2026,Yes,Business hub
+PER123,89 Cambridge Street West Leederville,whole property,400,water electricity internet,men,10/10/2025-10/04/2026,No,Trendy dining strip
+PER124,34 South Terrace Fremantle,shared house,170,water electricity,women,01/11/2025-30/06/2026,No,Historic port charm
+PER125,56 Hampden Road Nedlands,student accommodation,215,internet,couple,01/02/2026-30/11/2026,Yes,University students
+PER126,78 Leach Highway Riverton,studio,220,water electricity internet,all people,15/11/2025-15/02/2026,No,Shopping access
+PER127,14 Manning Road Como,homestay,240,water electricity internet,men women,01/12/2025-31/03/2026,No,Riverside community
+PER128,37 Canning Bridge Road Applecross,whole property,480,water electricity internet,women,20/09/2025-20/12/2025,Yes,Upscale riverside
+PER129,59 Vincent Street Leederville,shared house,160,electricity,all people,01/10/2025-30/04/2026,No,Artistic community
+PER130,81 Robinson Avenue Belmont,studio,210,water internet,men,15/10/2025-15/01/2026,No,Aviation heritage area
+PER131,27 Whatley Crescent Bayswater,homestay,185,water electricity internet,couple,01/11/2025-30/06/2026,Yes,Family environment
+PER132,49 Albany Highway Cannington,whole property,350,water electricity internet,all people,10/11/2025-10/05/2026,No,Shopping hub
+PER133,71 Mill Point Road South Perth,shared house,185,water electricity,men women,01/12/2025-28/02/2026,No,Zoo and parks nearby
+PER134,93 Grand Promenade Bedford,student accommodation,190,electricity internet,women,01/02/2026-30/11/2026,Yes,Student community
+PER135,19 Walter Road Morley,studio,205,water,all people,15/12/2025-15/03/2026,No,Industrial heritage
+PER136,41 Tonkin Highway Bayswater,homestay,200,water electricity internet,couple,01/09/2025-31/12/2025,No,Transport connectivity
+PER137,63 Beach Road Watermans Bay,whole property,580,water electricity internet,men,20/10/2025-20/04/2026,Yes,Coastal premium
+PER138,85 Karrinyup Road Karrinyup,shared house,170,internet,women,01/11/2025-31/05/2026,No,Shopping convenience
+PER139,31 Main Street Osborne Park,studio,235,water electricity,all people,15/11/2025-15/02/2026,No,Industrial access
+PER140,53 Great Northern Highway Middle Swan,homestay,175,water electricity internet,men women,01/12/2025-30/04/2026,Yes,Rural peace
+PER141,75 Preston Street Como,whole property,390,water electricity internet,couple,10/09/2025-10/06/2026,No,Riverside suburb
+PER142,97 Stock Road Palmyra,shared house,155,electricity internet,all people,01/10/2025-31/03/2026,No,Multicultural area
+PER143,22 Leila Road Coolbellup,student accommodation,180,water internet,men,01/02/2026-30/11/2026,Yes,Affordable student option
+PER144,44 Ranford Road Harrisdale,studio,215,water electricity,women,15/10/2025-15/04/2026,No,New suburb
+PER145,66 Abernethy Road Belmont,homestay,205,water electricity internet,couple,01/11/2025-30/06/2026,No,Airport area
+PER146,88 Great Western Highway Mundaring,whole property,320,water electricity internet,all people,20/11/2025-20/02/2026,Yes,Hills retreat
+PER147,32 Brookton Highway Kelmscott,shared house,145,water,men women,01/09/2025-31/12/2025,No,Outer Perth
+PER148,54 Orrong Road Rivervale,studio,240,electricity internet,women,15/09/2025-15/12/2025,No,Stadium proximity
+PER149,76 Welshpool Road East Welshpool,homestay,190,water electricity internet,all people,01/10/2025-31/01/2026,Yes,Industrial convenience
+PER150,98 Marmion Avenue Trigg,whole property,520,water electricity internet,couple,10/10/2025-10/07/2026,No,Beach house
+PER151,26 West Coast Highway Scarborough,shared house,185,electricity,men,01/11/2025-31/05/2026,No,Beachside community
+PER152,48 Reid Highway Malaga,student accommodation,175,water internet,women,01/02/2026-30/11/2026,Yes,Airport employment
+PER153,70 Thomas Street Subiaco,studio,300,water electricity internet,couple,15/11/2025-15/05/2026,No,Premium suburb
+PER154,92 Railway Road Kalamunda,homestay,180,water electricity internet,all people,01/12/2025-30/04/2026,No,Hills community
+PER155,18 Albany Highway Armadale,whole property,310,water electricity,men women,20/09/2025-20/03/2026,Yes,Train accessibility
+PER156,40 Tonkin Highway Forrestfield,shared house,150,internet,women,01/10/2025-31/03/2026,No,Growth corridor
+PER157,62 Canning Highway Como,studio,245,water electricity,all people,15/10/2025-15/01/2026,No,River lifestyle
+PER158,84 South Street Murdoch,homestay,210,water electricity internet,couple,01/11/2025-30/06/2026,Yes,University precinct
+PER159,29 Hampton Road Fremantle,whole property,420,water electricity internet,men,10/11/2025-10/05/2026,No,Port heritage
+PER160,51 High Street Fremantle,shared house,165,water electricity,women,01/12/2025-28/02/2026,No,Markets and cafes
+PER161,73 Marine Parade Cottesloe,student accommodation,280,internet,all people,01/02/2026-30/11/2026,Yes,Beach student life
+PER162,95 Stirling Street Perth,studio,315,water electricity internet,men women,15/12/2025-15/03/2026,No,City center
+PER163,21 Kings Park Road West Perth,homestay,285,water electricity internet,couple,01/09/2025-31/12/2025,No,Parkland access
+PER164,43 Newcastle Street Northbridge,whole property,410,water electricity internet,all people,20/10/2025-20/07/2026,Yes,Cultural quarter
+PER165,65 Adelaide Terrace East Perth,shared house,190,electricity,men,01/11/2025-31/05/2026,No,Government precinct
+PER166,87 Lord Street Perth,studio,265,water internet,women,15/11/2025-15/02/2026,No,Legal and business hub
+PER167,33 Mounts Bay Road South Perth,homestay,250,water electricity internet,all people,01/10/2025-30/04/2026,Yes,Zoo and gardens
+PER168,55 Hay Street Subiaco,whole property,450,water electricity internet,couple,10/09/2025-10/06/2026,No,Shopping district
+PER169,77 Railway Parade Bayswater,shared house,155,water electricity,men women,01/12/2025-31/03/2026,No,Transport node
+PER170,99 Great Eastern Highway Rivervale,student accommodation,185,electricity internet,women,01/02/2026-30/11/2026,Yes,Sports complex access
+PER171,24 Abernethy Road Cloverdale,studio,220,water,all people,15/09/2025-15/06/2026,No,Quiet industrial fringe
+PER172,46 Leach Highway Bull Creek,homestay,200,water electricity internet,men,01/10/2025-31/01/2026,No,Family with garden
+PER173,68 Canning Highway Applecross,whole property,490,water electricity internet couple,20/10/2025-20/04/2026,Yes,Prestigious riverside
+PER174,90 Manning Road Bentley,shared house,160,internet,all people,01/11/2025-30/06/2026,No,Technology precinct
+PER175,26 Albany Highway Victoria Park,studio,230,water electricity,men women,15/11/2025-15/05/2026,No,Cafe culture
+PER176,48 Stock Road Palmyra,homestay,190,water electricity internet,women,01/12/2025-28/02/2026,Yes,Multicultural community
+PER177,70 Walcott Street Mount Lawley,whole property,380,water electricity internet,couple,10/10/2025-10/04/2026,No,Arts and culture
+PER178,92 Bulwer Street Perth,shared house,175,electricity internet,all people,01/09/2025-31/12/2025,No,Historic precinct
+PER179,18 Mill Point Road South Perth,student accommodation,225,water internet,men,01/02/2026-30/11/2026,Yes,Premium student housing
+PER180,40 Francis Street Northbridge,studio,260,water electricity internet,women,15/10/2025-15/01/2026,No,Entertainment quarter
+PER181,62 Cambridge Street Wembley,homestay,205,water electricity internet,couple,01/11/2025-30/04/2026,No,Quiet family area
+PER182,84 Karrinyup Road Stirling,whole property,400,water electricity internet,all people,20/11/2025-20/05/2026,Yes,Shopping mall access
